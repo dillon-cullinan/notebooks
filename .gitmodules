@@ -1,7 +1,3 @@
-[submodule "repos/cudf"]
-	path = repos/cudf
-	url = https://github.com/rapidsai/cudf.git
-	branch = branch-0.13
 [submodule "repos/cuml"]
 	path = repos/cuml
 	url = https://github.com/rapidsai/cuml.git
@@ -13,10 +9,6 @@
 [submodule "repos/cuxfilter"]
 	path = repos/cuxfilter
 	url = https://github.com/rapidsai/cuxfilter.git
-	branch = branch-0.13
-[submodule "repos/cuspatial"]
-	path = repos/cuspatial
-	url = https://github.com/rapidsai/cuspatial.git
 	branch = branch-0.13
 [submodule "repos/clx"]
 	path = repos/clx
